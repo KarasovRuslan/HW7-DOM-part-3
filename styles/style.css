@@ -58,6 +58,11 @@ body{
     border-radius: 5px;
     border: 0;
     outline: none;
+	text-align: center;
+}
+
+.appButton::placeholder {
+	color: white;
 }
 
 .deleteButton{
